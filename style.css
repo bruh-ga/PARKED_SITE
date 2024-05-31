@@ -29,7 +29,7 @@ list {
     align-items: center;
 
     direction: row;
-    gap: 60;
+    gap: 20;
     margin-top: 20px;
     margin-bottom: 20px;
 }
