@@ -41,6 +41,9 @@ list2 {
 }
 
 item {
+     padding: 20px;
+     background-color: #2a3e57;
+     border-radius: 15px;
     direction: column;
     gap:10;
 }
