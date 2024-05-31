@@ -8,8 +8,8 @@ introduction {
     direction: column;
     align-items: center;
 
-    gap: 10;
-    margin-bottom: 40px;
+    gap: 2;
+    margin-bottom: 10px;
 }
 
 header {
